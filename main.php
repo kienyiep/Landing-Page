@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-1-of-2">
             <h3 class="heading-tertiary u-margin-bottom-small">
-            manage content from anywhere, and deliver apps to any device
+            manage content from anywhere, and deliver apps to any devices
             </h3>
             <p class="paragraph">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo

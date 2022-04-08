@@ -12,6 +12,6 @@
     <link rel="stylesheet" href="css/icon-font.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
-
+   
     <title>CMS | Content Management System</title>
   </head>
