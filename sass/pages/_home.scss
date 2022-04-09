@@ -45,6 +45,17 @@
   //   margin-top: 1rem;
   position: relative;
   padding: 8rem 0;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(rgb(0, 0, 0), 0.3),
+      rgba(rgb(0, 0, 0), 0.6)
+    ),
+    url(../img/image2.jpg);
+  background-size: cover;
+  background-position: center;
+  // background-attachment: fixed;
+  // filter: blur(3px) brightness(80%);
+
   // background-color: $color-grey-light-1;
   @include respond(tab-port) {
     padding: 10rem 0;

@@ -199,15 +199,15 @@
 
 
       <section class="section-stories">
-        <div class="bg-video">
+        <!-- <div class="bg-video"> -->
           <!-- muted - no sound -->
-          <video class="bg-video__content" autoplay muted loop>
+          <!-- <video class="bg-video__content" autoplay muted loop>
             <source src="img/bg_video3.mp4" type="video/mp4" />
             <!-- <source src="img/video.webm" type="video/webm" /> -->
-            Your browser is not supported
+            <!-- Your browser is not supported -->
             <!-- if  the mp4 and webm cannot be played this text will display -->
-          </video>
-        </div>
+          <!-- < /video> --> 
+        <!-- </div> -->
         <div class="u-center-text u-margin-bottom-big">
           <h2 class="heading-secondary">Look how our customers say</h2>
         </div>
